@@ -1,164 +1,54 @@
 {
   "posts": [
     {
-      "albumId": 1,
-      "id": 1,
-      "title": "accusamus beatae ad facilis cum similique qui sunt",
-      "url": "https://via.placeholder.com/600/92c952",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+      "id":1,
+      "title":"TiTle1",
+      "author":"一菲",
+      "time":"2021年10月27日",
+      "video":"",
+      "img":"https://via.placeholder.com/600/92c952",
+      "contentOne":"备受推崇的、为工业领域打造的 Wi-Fi 继续在全球分阶段推出，旨在 2025 年达到 5G 的峰值性能容量。 在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
+      "contentTwo":"在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
     },
     {
-      "albumId": 1,
-      "id": 2,
-      "title": "reprehenderit est deserunt velit ipsam",
-      "url": "https://via.placeholder.com/600/771796",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/771796"
+      "id":2,
+      "title":"TiTle2",
+      "author":"二狗",
+      "time":"2021年10月28日",
+      "video":"",
+      "img":"https://via.placeholder.com/600/771796",
+      "contentOne":"备受推崇的、为工业领域打造的 Wi-Fi 继续在全球分阶段推出，旨在 2025 年达到 5G 的峰值性能容量。 在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
+      "contentTwo":"在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
     },
     {
-      "albumId": 1,
-      "id": 3,
-      "title": "officia porro iure quia iusto qui ipsa ut modi",
-      "url": "https://via.placeholder.com/600/24f355",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+      "id":3,
+      "title":"TiTle3",
+      "author":"张三",
+      "time":"2021年10月29日",
+      "video":"",
+      "img":"https://via.placeholder.com/600/24f355",
+      "contentOne":"备受推崇的、为工业领域打造的 Wi-Fi 继续在全球分阶段推出，旨在 2025 年达到 5G 的峰值性能容量。 在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
+      "contentTwo":"在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
     },
     {
-      "albumId": 1,
-      "id": 4,
-      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-      "url": "https://via.placeholder.com/600/d32776",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+      "id":4,
+      "title":"TiTle4",
+      "author":"李四",
+      "time":"2021年10月30日",
+      "video":"",
+      "img":"https://via.placeholder.com/600/d32776",
+      "contentOne":"备受推崇的、为工业领域打造的 Wi-Fi 继续在全球分阶段推出，旨在 2025 年达到 5G 的峰值性能容量。 在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
+      "contentTwo":"在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
     },
     {
-      "albumId": 1,
-      "id": 5,
-      "title": "natus nisi omnis corporis facere molestiae rerum in",
-      "url": "https://via.placeholder.com/600/f66b97",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+      "id":5,
+      "title":"TiTle5",
+      "author":"王五",
+      "time":"2021年10月31日",
+      "video":"",
+      "img":"https://via.placeholder.com/600/f66b97",
+      "contentOne":"备受推崇的、为工业领域打造的 Wi-Fi 继续在全球分阶段推出，旨在 2025 年达到 5G 的峰值性能容量。 在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
+      "contentTwo":"在峰值性能下，5G 将提供超低延迟、99.99% 的可靠性、估计比 4G 快一千倍的高带宽数据包传输。5G 有望通过在工厂车间实现边缘计算、物联网和智能设备的应用来支持工业自动化。支持机器对机器的通信和跨工厂的大型数据集的相互交换是工业 4.0 的一个基本方面。确保进行确定性通信还可以实现实时自动化，以减少人工参与并确保工厂车间的安全。功能齐全的 5G 网络将加速从近实时到实时的转变，从而推动数字化转型技术在工厂车间的应用。例如，依赖于虚拟表示和物理设施之间数据相互交换的数字孪生可以在信息发生时接收信息，而不会出现滞后。5G 网络将扩展数字孪生技术、仿真建模、边缘计算和工业物联网在普通工厂车间的应用。工业企业将能够利用蓬勃发展的 IIoT 和边缘分析市场来解决他们面临的独特挑战。",
     },
-    {
-      "albumId": 1,
-      "id": 6,
-      "title": "accusamus ea aliquid et amet sequi nemo",
-      "url": "https://via.placeholder.com/600/56a8c2",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
-    },
-    {
-      "albumId": 1,
-      "id": 7,
-      "title": "officia delectus consequatur vero aut veniam explicabo molestias",
-      "url": "https://via.placeholder.com/600/b0f7cc",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
-    },
-    {
-      "albumId": 1,
-      "id": 8,
-      "title": "aut porro officiis laborum odit ea laudantium corporis",
-      "url": "https://via.placeholder.com/600/54176f",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/54176f"
-    },
-    {
-      "albumId": 1,
-      "id": 9,
-      "title": "qui eius qui autem sed",
-      "url": "https://via.placeholder.com/600/51aa97",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
-    },
-    {
-      "albumId": 1,
-      "id": 10,
-      "title": "beatae et provident et ut vel",
-      "url": "https://via.placeholder.com/600/810b14",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/810b14"
-    },
-    {
-      "albumId": 1,
-      "id": 11,
-      "title": "nihil at amet non hic quia qui",
-      "url": "https://via.placeholder.com/600/1ee8a4",
-      "path": "/",
-      "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
-    },
-    {
-      "albumId": 1,
-      "id": 12,
-      "path": "/",
-      "title": "mollitia soluta ut rerum eos aliquam consequatur perspiciatis maiores",
-      "url": "https://via.placeholder.com/600/66b7d2",
-      "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
-    },
-    {
-      "albumId": 1,
-      "id": 13,
-      "title": "repudiandae iusto deleniti rerum",
-      "path": "/",
-      "url": "https://via.placeholder.com/600/197d29",
-      "thumbnailUrl": "https://via.placeholder.com/150/197d29"
-    },
-    {
-      "albumId": 1,
-      "id": 14,
-      "path": "/",
-      "title": "est necessitatibus architecto ut laborum",
-      "url": "https://via.placeholder.com/600/61a65",
-      "thumbnailUrl": "https://via.placeholder.com/150/61a65"
-    },
-    {
-      "albumId": 1,
-      "id": 15,
-      "path": "/",
-      "title": "harum dicta similique quis dolore earum ex qui",
-      "url": "https://via.placeholder.com/600/f9cee5",
-      "thumbnailUrl": "https://via.placeholder.com/150/f9cee5"
-    },
-    {
-      "albumId": 1,
-      "id": 16,
-      "path": "/",
-      "title": "iusto sunt nobis quasi veritatis quas expedita voluptatum deserunt",
-      "url": "https://via.placeholder.com/600/fdf73e",
-      "thumbnailUrl": "https://via.placeholder.com/150/fdf73e"
-    },
-    {
-      "albumId": 1,
-      "id": 17,
-      "path": "/",
-      "title": "natus doloribus necessitatibus ipsa",
-      "url": "https://via.placeholder.com/600/9c184f",
-      "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
-    },
-    {
-      "albumId": 1,
-      "id": 18,
-      "path": "/",
-      "title": "laboriosam odit nam necessitatibus et illum dolores reiciendis",
-      "url": "https://via.placeholder.com/600/1fe46f",
-      "thumbnailUrl": "https://via.placeholder.com/150/1fe46f"
-    },
-    {
-      "albumId": 1,
-      "id": 19,
-      "path": "/",
-      "title": "perferendis nesciunt eveniet et optio a",
-      "url": "https://via.placeholder.com/600/56acb2",
-      "thumbnailUrl": "https://via.placeholder.com/150/56acb2"
-    },
-    {
-      "albumId": 1,
-      "id": 20,
-      "path": "/",
-      "title": "assumenda voluptatem laboriosam enim consequatur veniam placeat reiciendis error",
-      "url": "https://via.placeholder.com/600/8985dc",
-      "thumbnailUrl": "https://via.placeholder.com/150/8985dc"
-    }
   ]
 }
